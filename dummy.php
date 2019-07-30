@@ -1,5 +1,4 @@
 <?php
-	error_reporting(0);
 	$name['recsech'] = array(
 		'description' => 'Recsech is a tool for doing Footprinting and Reconnaissance on the target web. Recsech collects information such as DNS Information, Sub Domains, HoneySpot Detected, Subdomain takeovers, Reconnaissance On Github and much more you can see in Features in tools .',
 		'repo'	=> 'https://github.com/radenvodka/Recsech', 
